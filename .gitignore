@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Docker
+docker_login.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
