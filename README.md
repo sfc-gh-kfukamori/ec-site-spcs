@@ -3,6 +3,9 @@
 Snowflake の Snowpark Container Services (SPCS) 上で動作するフルスタック EC サイトです。  
 React (フロントエンド) + FastAPI (バックエンド) + Nginx (リバースプロキシ) を単一コンテナにまとめ、Snowflake のデータベースをストレージとして利用します。
 
+## アクセスURL
+https://ab7bed-sfseapac-k-fukamori.snowflakecomputing.app  
+
 ## アーキテクチャ
 
 ```
